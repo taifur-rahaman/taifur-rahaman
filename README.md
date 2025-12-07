@@ -1,4 +1,11 @@
-<h1 align="center">Hi👋I am Taifur Rahaman</h1>
+<h1 align="center">Hi, I am Taifur Rahaman</h1>
+<h3 align="center">A passionate Game Developer from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taifur-rahaman&label=Profile%20views&color=0e75b6&style=flat" alt="taifur-rahaman" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ###
 
@@ -39,15 +46,11 @@
   </a>
 </div>
 
-###
+<hr>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=taifur-rahaman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=taifur-rahaman&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
+  <hr>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taifur-rahaman&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://pacman.abozanona.me?username=taifur-rahaman" />
-
-###
+<!-- <img src="https://pacman.abozanona.me?username=taifur-rahaman" /> -->
