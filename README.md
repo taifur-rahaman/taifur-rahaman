@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I am Taifur Rahaman</h1>
 <h3 align="center">A passionate Game Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taifur-rahaman&label=Profile%20views&color=0e75b6&style=flat" alt="taifur-rahaman" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 ###
 
 <div align="center">
