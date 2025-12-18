@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Taifur Rahaman</h1>
-<h3 align="center">A passionate Game Developer from Bangladesh</h3>
+<h3 align="center">A passionate Python Developer from Bangladesh</h3>
 
 ###
 
